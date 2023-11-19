@@ -1,0 +1,3 @@
+﻿  NumberGuesserUltra.cpp
+c:\users\b-ran\source\repos\numberguesserultra\numberguesserultra\numberguesserultra.cpp(162): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NumberGuesserUltra.vcxproj -> C:\Users\B-ran\source\repos\NumberGuesserUltra\Debug\NumberGuesserUltra.exe
